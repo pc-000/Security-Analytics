@@ -1,1 +1,21 @@
 # Security-Analytics
+
+Project 1: 1A) Described the function of the voting Dataset provided in CSV file at http://elections.hunffingtonpost.com/pollster/2012-general-election-romney-vs-obama.csv and then calculated the least and most votes recieved by a candidate at a particular pollster. 
+
+1B) Time series graph that shows one of the candidates point along the pollster start date. 
+
+Project 2: 2A) Have written a query function based on the packet capture file (traffic_dump.pcap), in which output all the TCP streams, including stream's start time, end time, the other IP Address, and the streams size in bytes that involve one specific IP Address in the communication. 
+
+2B) Plotted the results of the query function, in time-series plot of stream size over stream starting time for a particular ip address. 
+
+2C) Used tcpflow to save all the stream content to external files. 
+
+Project 3: 3A) Have written functions for decision trees on the basis of Dataset_project3.csv. Chose the depth to be 10 and the criterion is entropy. 
+
+3B) Created the logistic regression model and then checked its accuracy. 
+
+Project 4: 4A) Made K-means cluster of the dataset, beer_project4.txt. 
+
+4B) Plotted all the data points on scatter charts. Each chart displays data on two attributes, so there are six charts in total. 
+
+4C) Computed Silhoutte coefficients for k-means models with k=2 to 19 and then plotted the results with a line chart. 
