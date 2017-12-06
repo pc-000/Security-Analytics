@@ -1,13 +1,11 @@
 # Security-Analytics
 
 ##Project 1 
-
-Tasks completed in this project:
-- Described the function of the voting Dataset provided in CSV file given below and then calculated the least and most votes recieved by a candidate at a particular pollster[http://elections.hunffingtonpost.com/pollster/2012-general-election-romney-vs-obama.csv][df1]. 
--Time series graph that shows one of the candidates point along the pollster start date. 
+Tasks completed in this project
+- Described the function of the voting Dataset provided in CSV file given below and then calculated the least and most votes recieved by a candidate at a particular pollster [http://elections.hunffingtonpost.com/pollster/2012-general-election-romney-vs-obama.csv][df1] 
+-Time series graph that shows one of the candidates point along the pollster start date 
 
 ##Project 2 
-
 Tasks performed in this project
 -Have written a query function based on the packet capture file (traffic_dump.pcap), in which output all the TCP streams, including stream's start time, end time, the other IP Address, and the streams size in bytes that involve one specific IP Address in the communication. 
 -Plotted the results of the query function, in time-series plot of stream size over stream starting time for a particular ip address. 
